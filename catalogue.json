@@ -1,1 +1,15 @@
-{"version":1,"paquets":[]}
+{
+ "version": 1,
+ "paquets": [
+  {
+   "id": "3e-puissances-et-notation-scientifique",
+   "matiere": "Mathématiques",
+   "niveau": "3e",
+   "nom": "Puissances et notation scientifique",
+   "nbCartes": 13,
+   "version": 1,
+   "fichier": "paquets/3e-puissances-et-notation-scientifique.json"
+  }
+ ],
+ "maj": "2026-11-23T19:44:13.426Z"
+}
