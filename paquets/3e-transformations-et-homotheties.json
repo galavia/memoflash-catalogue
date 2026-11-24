@@ -1,56 +1,56 @@
 {
- "format": "flashcards-maths",
- "version": 1,
- "matieres": [
-  {
-   "nom": "Mathématiques",
-   "paquets": [
+  "format": "flashcards-maths",
+  "version": 1,
+  "matieres": [
     {
-     "nom": "3e · Transformations et homothéties",
-     "cartes": [
-      {
-       "recto": "Symétrie axiale",
-       "verso": "Transformation qui « retourne » une figure par rapport à une droite appelée axe"
-      },
-      {
-       "recto": "Symétrie centrale",
-       "verso": "Demi-tour autour d'un point, le centre de symétrie"
-      },
-      {
-       "recto": "Translation",
-       "verso": "Glissement de la figure : même direction, même sens et même longueur pour tous les points"
-      },
-      {
-       "recto": "Rotation",
-       "verso": "La figure tourne d'un angle donné autour d'un centre"
-      },
-      {
-       "recto": "Quelles transformations conservent les longueurs, les angles et les aires ?",
-       "verso": "Les symétries (axiale et centrale), les translations et les rotations"
-      },
-      {
-       "recto": "Homothétie de centre $O$ et de rapport $k$ : image $M'$ de $M$",
-       "verso": "$M'$ est sur la droite $(OM)$ avec $OM' = |k| \\times OM$, du même côté de $O$ que $M$ si $k > 0$, du côté opposé si $k < 0$"
-      },
-      {
-       "recto": "Effet d'une homothétie de rapport $k$ sur les longueurs ? les aires ?",
-       "verso": "Les longueurs sont multipliées par $|k|$ et les aires par $k^2$"
-      },
-      {
-       "recto": "Que conserve une homothétie ?",
-       "verso": "Les angles, le parallélisme, l'alignement"
-      },
-      {
-       "recto": "Homothétie de rapport $k > 1$ ? $0 < k < 1$ ?",
-       "verso": "$k > 1$ : agrandissement. $0 < k < 1$ : réduction"
-      },
-      {
-       "recto": "Homothétie de rapport $-1$",
-       "verso": "C'est la symétrie centrale de même centre"
-      }
-     ]
+      "nom": "Mathématiques - 3e",
+      "paquets": [
+        {
+          "nom": "3e · Transformations et homothéties",
+          "cartes": [
+            {
+              "recto": "Symétrie axiale",
+              "verso": "Transformation qui « retourne » une figure par rapport à une droite appelée axe"
+            },
+            {
+              "recto": "Symétrie centrale",
+              "verso": "Demi-tour autour d'un point, le centre de symétrie"
+            },
+            {
+              "recto": "Translation",
+              "verso": "Glissement de la figure : même direction, même sens et même longueur pour tous les points"
+            },
+            {
+              "recto": "Rotation",
+              "verso": "La figure tourne d'un angle donné autour d'un centre"
+            },
+            {
+              "recto": "Quelles transformations conservent les longueurs, les angles et les aires ?",
+              "verso": "Les symétries (axiale et centrale), les translations et les rotations"
+            },
+            {
+              "recto": "Homothétie de centre $O$ et de rapport $k$ : image $M'$ de $M$",
+              "verso": "$M'$ est sur la droite $(OM)$ avec $OM' = |k| \\times OM$, du même côté de $O$ que $M$ si $k > 0$, du côté opposé si $k < 0$"
+            },
+            {
+              "recto": "Effet d'une homothétie de rapport $k$ sur les longueurs ? les aires ?",
+              "verso": "Les longueurs sont multipliées par $|k|$ et les aires par $k^2$"
+            },
+            {
+              "recto": "Que conserve une homothétie ?",
+              "verso": "Les angles, le parallélisme, l'alignement"
+            },
+            {
+              "recto": "Homothétie de rapport $k > 1$ ? $0 < k < 1$ ?",
+              "verso": "$k > 1$ : agrandissement. $0 < k < 1$ : réduction"
+            },
+            {
+              "recto": "Homothétie de rapport $-1$",
+              "verso": "C'est la symétrie centrale de même centre"
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

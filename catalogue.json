@@ -1,177 +1,177 @@
 {
- "version": 1,
- "paquets": [
-  {
-   "id": "3e-puissances-et-notation-scientifique",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Puissances et notation scientifique",
-   "nbCartes": 13,
-   "version": 1,
-   "fichier": "paquets/3e-puissances-et-notation-scientifique.json"
-  },
-  {
-   "id": "3e-aires-et-volumes",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Aires et volumes",
-   "nbCartes": 14,
-   "version": 1,
-   "fichier": "paquets/3e-aires-et-volumes.json"
-  },
-  {
-   "id": "3e-algorithmique-et-programmation",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Algorithmique et programmation",
-   "nbCartes": 10,
-   "version": 1,
-   "fichier": "paquets/3e-algorithmique-et-programmation.json"
-  },
-  {
-   "id": "3e-arithmetique",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Arithmétique",
-   "nbCartes": 17,
-   "version": 1,
-   "fichier": "paquets/3e-arithmetique.json"
-  },
-  {
-   "id": "3e-calcul-litteral",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Calcul littéral",
-   "nbCartes": 16,
-   "version": 1,
-   "fichier": "paquets/3e-calcul-litteral.json"
-  },
-  {
-   "id": "3e-equations-et-inequations",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Équations et inéquations",
-   "nbCartes": 14,
-   "version": 1,
-   "fichier": "paquets/3e-equations-et-inequations.json"
-  },
-  {
-   "id": "3e-fonctions-lineaires-et-affines",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Fonctions linéaires et affines",
-   "nbCartes": 12,
-   "version": 1,
-   "fichier": "paquets/3e-fonctions-lineaires-et-affines.json"
-  },
-  {
-   "id": "3e-fractions",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Fractions",
-   "nbCartes": 9,
-   "version": 1,
-   "fichier": "paquets/3e-fractions.json"
-  },
-  {
-   "id": "3e-grandeurs-composees-et-conversions",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Grandeurs composées et conversions",
-   "nbCartes": 12,
-   "version": 1,
-   "fichier": "paquets/3e-grandeurs-composees-et-conversions.json"
-  },
-  {
-   "id": "3e-notion-de-fonction",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Notion de fonction",
-   "nbCartes": 10,
-   "version": 1,
-   "fichier": "paquets/3e-notion-de-fonction.json"
-  },
-  {
-   "id": "3e-probabilites",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Probabilités",
-   "nbCartes": 11,
-   "version": 1,
-   "fichier": "paquets/3e-probabilites.json"
-  },
-  {
-   "id": "3e-proportionnalite-et-pourcentages",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Proportionnalité et pourcentages",
-   "nbCartes": 10,
-   "version": 1,
-   "fichier": "paquets/3e-proportionnalite-et-pourcentages.json"
-  },
-  {
-   "id": "3e-racines-carrees",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Racines carrées",
-   "nbCartes": 13,
-   "version": 1,
-   "fichier": "paquets/3e-racines-carrees.json"
-  },
-  {
-   "id": "3e-reperage-sur-la-sphere",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Repérage sur la sphère",
-   "nbCartes": 7,
-   "version": 1,
-   "fichier": "paquets/3e-reperage-sur-la-sphere.json"
-  },
-  {
-   "id": "3e-statistiques",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Statistiques",
-   "nbCartes": 13,
-   "version": 1,
-   "fichier": "paquets/3e-statistiques.json"
-  },
-  {
-   "id": "3e-theoreme-de-thales",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Théorème de Thalès",
-   "nbCartes": 8,
-   "version": 1,
-   "fichier": "paquets/3e-theoreme-de-thales.json"
-  },
-  {
-   "id": "3e-transformations-et-homotheties",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Transformations et homothéties",
-   "nbCartes": 10,
-   "version": 1,
-   "fichier": "paquets/3e-transformations-et-homotheties.json"
-  },
-  {
-   "id": "3e-triangles-semblables",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Triangles semblables",
-   "nbCartes": 9,
-   "version": 1,
-   "fichier": "paquets/3e-triangles-semblables.json"
-  },
-  {
-   "id": "3e-trigonometrie",
-   "matiere": "Mathématiques",
-   "niveau": "3e",
-   "nom": "Trigonométrie",
-   "nbCartes": 12,
-   "version": 1,
-   "fichier": "paquets/3e-trigonometrie.json"
-  }
- ],
- "maj": "2026-11-24T20:55:15.000Z"
+  "version": 1,
+  "paquets": [
+    {
+      "id": "3e-puissances-et-notation-scientifique",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Puissances et notation scientifique",
+      "nbCartes": 13,
+      "version": 1,
+      "fichier": "paquets/3e-puissances-et-notation-scientifique.json"
+    },
+    {
+      "id": "3e-aires-et-volumes",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Aires et volumes",
+      "nbCartes": 14,
+      "version": 1,
+      "fichier": "paquets/3e-aires-et-volumes.json"
+    },
+    {
+      "id": "3e-algorithmique-et-programmation",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Algorithmique et programmation",
+      "nbCartes": 10,
+      "version": 1,
+      "fichier": "paquets/3e-algorithmique-et-programmation.json"
+    },
+    {
+      "id": "3e-arithmetique",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Arithmétique",
+      "nbCartes": 17,
+      "version": 1,
+      "fichier": "paquets/3e-arithmetique.json"
+    },
+    {
+      "id": "3e-calcul-litteral",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Calcul littéral",
+      "nbCartes": 16,
+      "version": 1,
+      "fichier": "paquets/3e-calcul-litteral.json"
+    },
+    {
+      "id": "3e-equations-et-inequations",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Équations et inéquations",
+      "nbCartes": 14,
+      "version": 1,
+      "fichier": "paquets/3e-equations-et-inequations.json"
+    },
+    {
+      "id": "3e-fonctions-lineaires-et-affines",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Fonctions linéaires et affines",
+      "nbCartes": 12,
+      "version": 1,
+      "fichier": "paquets/3e-fonctions-lineaires-et-affines.json"
+    },
+    {
+      "id": "3e-fractions",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Fractions",
+      "nbCartes": 9,
+      "version": 1,
+      "fichier": "paquets/3e-fractions.json"
+    },
+    {
+      "id": "3e-grandeurs-composees-et-conversions",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Grandeurs composées et conversions",
+      "nbCartes": 12,
+      "version": 1,
+      "fichier": "paquets/3e-grandeurs-composees-et-conversions.json"
+    },
+    {
+      "id": "3e-notion-de-fonction",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Notion de fonction",
+      "nbCartes": 10,
+      "version": 1,
+      "fichier": "paquets/3e-notion-de-fonction.json"
+    },
+    {
+      "id": "3e-probabilites",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Probabilités",
+      "nbCartes": 11,
+      "version": 1,
+      "fichier": "paquets/3e-probabilites.json"
+    },
+    {
+      "id": "3e-proportionnalite-et-pourcentages",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Proportionnalité et pourcentages",
+      "nbCartes": 10,
+      "version": 1,
+      "fichier": "paquets/3e-proportionnalite-et-pourcentages.json"
+    },
+    {
+      "id": "3e-racines-carrees",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Racines carrées",
+      "nbCartes": 13,
+      "version": 1,
+      "fichier": "paquets/3e-racines-carrees.json"
+    },
+    {
+      "id": "3e-reperage-sur-la-sphere",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Repérage sur la sphère",
+      "nbCartes": 7,
+      "version": 1,
+      "fichier": "paquets/3e-reperage-sur-la-sphere.json"
+    },
+    {
+      "id": "3e-statistiques",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Statistiques",
+      "nbCartes": 13,
+      "version": 1,
+      "fichier": "paquets/3e-statistiques.json"
+    },
+    {
+      "id": "3e-theoreme-de-thales",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Théorème de Thalès",
+      "nbCartes": 8,
+      "version": 1,
+      "fichier": "paquets/3e-theoreme-de-thales.json"
+    },
+    {
+      "id": "3e-transformations-et-homotheties",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Transformations et homothéties",
+      "nbCartes": 10,
+      "version": 1,
+      "fichier": "paquets/3e-transformations-et-homotheties.json"
+    },
+    {
+      "id": "3e-triangles-semblables",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Triangles semblables",
+      "nbCartes": 9,
+      "version": 1,
+      "fichier": "paquets/3e-triangles-semblables.json"
+    },
+    {
+      "id": "3e-trigonometrie",
+      "matiere": "Mathématiques - 3e",
+      "niveau": "3e",
+      "nom": "Trigonométrie",
+      "nbCartes": 12,
+      "version": 1,
+      "fichier": "paquets/3e-trigonometrie.json"
+    }
+  ],
+  "maj": "2026-11-24T20:55:15.000Z"
 }

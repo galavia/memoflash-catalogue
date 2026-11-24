@@ -1,64 +1,64 @@
 {
- "format": "flashcards-maths",
- "version": 1,
- "matieres": [
-  {
-   "nom": "Mathématiques",
-   "paquets": [
+  "format": "flashcards-maths",
+  "version": 1,
+  "matieres": [
     {
-     "nom": "3e · Trigonométrie",
-     "cartes": [
-      {
-       "recto": "Cosinus d'un angle aigu dans un triangle rectangle",
-       "verso": "$\\cos \\widehat{A} = \\dfrac{\\text{côté adjacent}}{\\text{hypoténuse}}$"
-      },
-      {
-       "recto": "Sinus d'un angle aigu dans un triangle rectangle",
-       "verso": "$\\sin \\widehat{A} = \\dfrac{\\text{côté opposé}}{\\text{hypoténuse}}$"
-      },
-      {
-       "recto": "Tangente d'un angle aigu dans un triangle rectangle",
-       "verso": "$\\tan \\widehat{A} = \\dfrac{\\text{côté opposé}}{\\text{côté adjacent}}$"
-      },
-      {
-       "recto": "Moyen de retenir les trois formules",
-       "verso": "CAH SOH TOA : Cosinus = Adjacent / Hypoténuse, Sinus = Opposé / Hypoténuse, Tangente = Opposé / Adjacent"
-      },
-      {
-       "recto": "Dans quels triangles utilise-t-on cosinus, sinus et tangente ?",
-       "verso": "Uniquement dans les triangles rectangles"
-      },
-      {
-       "recto": "Réglage de la calculatrice pour les angles",
-       "verso": "Mode degrés (DEG)"
-      },
-      {
-       "recto": "Retrouver un angle à partir de son cosinus, sinus ou tangente",
-       "verso": "On utilise les touches $\\cos^{-1}$, $\\sin^{-1}$ ou $\\tan^{-1}$ de la calculatrice"
-      },
-      {
-       "recto": "Entre quelles valeurs sont le cosinus et le sinus d'un angle aigu ?",
-       "verso": "Entre $0$ et $1$"
-      },
-      {
-       "recto": "Relation entre $\\cos$, $\\sin$ et $\\tan$",
-       "verso": "$\\tan \\widehat{A} = \\dfrac{\\sin \\widehat{A}}{\\cos \\widehat{A}}$ et $\\cos^2 \\widehat{A} + \\sin^2 \\widehat{A} = 1$"
-      },
-      {
-       "recto": "Somme des deux angles aigus d'un triangle rectangle",
-       "verso": "$90^\\circ$"
-      },
-      {
-       "recto": "$ABC$ rectangle en $A$, $AB = 3$ et $BC = 5$. Trouver $\\widehat{B}$",
-       "verso": "$\\cos \\widehat{B} = \\dfrac{3}{5} = 0{,}6$ donc $\\widehat{B} \\approx 53^\\circ$"
-      },
-      {
-       "recto": "$ABC$ rectangle en $A$, $\\widehat{B} = 40^\\circ$ et $BC = 8$. Calculer $AC$",
-       "verso": "$\\sin 40^\\circ = \\dfrac{AC}{8}$ donc $AC = 8 \\times \\sin 40^\\circ \\approx 5{,}1$"
-      }
-     ]
+      "nom": "Mathématiques - 3e",
+      "paquets": [
+        {
+          "nom": "3e · Trigonométrie",
+          "cartes": [
+            {
+              "recto": "Cosinus d'un angle aigu dans un triangle rectangle",
+              "verso": "$\\cos \\widehat{A} = \\dfrac{\\text{côté adjacent}}{\\text{hypoténuse}}$"
+            },
+            {
+              "recto": "Sinus d'un angle aigu dans un triangle rectangle",
+              "verso": "$\\sin \\widehat{A} = \\dfrac{\\text{côté opposé}}{\\text{hypoténuse}}$"
+            },
+            {
+              "recto": "Tangente d'un angle aigu dans un triangle rectangle",
+              "verso": "$\\tan \\widehat{A} = \\dfrac{\\text{côté opposé}}{\\text{côté adjacent}}$"
+            },
+            {
+              "recto": "Moyen de retenir les trois formules",
+              "verso": "CAH SOH TOA : Cosinus = Adjacent / Hypoténuse, Sinus = Opposé / Hypoténuse, Tangente = Opposé / Adjacent"
+            },
+            {
+              "recto": "Dans quels triangles utilise-t-on cosinus, sinus et tangente ?",
+              "verso": "Uniquement dans les triangles rectangles"
+            },
+            {
+              "recto": "Réglage de la calculatrice pour les angles",
+              "verso": "Mode degrés (DEG)"
+            },
+            {
+              "recto": "Retrouver un angle à partir de son cosinus, sinus ou tangente",
+              "verso": "On utilise les touches $\\cos^{-1}$, $\\sin^{-1}$ ou $\\tan^{-1}$ de la calculatrice"
+            },
+            {
+              "recto": "Entre quelles valeurs sont le cosinus et le sinus d'un angle aigu ?",
+              "verso": "Entre $0$ et $1$"
+            },
+            {
+              "recto": "Relation entre $\\cos$, $\\sin$ et $\\tan$",
+              "verso": "$\\tan \\widehat{A} = \\dfrac{\\sin \\widehat{A}}{\\cos \\widehat{A}}$ et $\\cos^2 \\widehat{A} + \\sin^2 \\widehat{A} = 1$"
+            },
+            {
+              "recto": "Somme des deux angles aigus d'un triangle rectangle",
+              "verso": "$90^\\circ$"
+            },
+            {
+              "recto": "$ABC$ rectangle en $A$, $AB = 3$ et $BC = 5$. Trouver $\\widehat{B}$",
+              "verso": "$\\cos \\widehat{B} = \\dfrac{3}{5} = 0{,}6$ donc $\\widehat{B} \\approx 53^\\circ$"
+            },
+            {
+              "recto": "$ABC$ rectangle en $A$, $\\widehat{B} = 40^\\circ$ et $BC = 8$. Calculer $AC$",
+              "verso": "$\\sin 40^\\circ = \\dfrac{AC}{8}$ donc $AC = 8 \\times \\sin 40^\\circ \\approx 5{,}1$"
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

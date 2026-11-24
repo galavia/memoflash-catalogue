@@ -1,68 +1,68 @@
 {
- "format": "flashcards-maths",
- "version": 1,
- "matieres": [
-  {
-   "nom": "Mathématiques",
-   "paquets": [
+  "format": "flashcards-maths",
+  "version": 1,
+  "matieres": [
     {
-     "nom": "3e · Statistiques",
-     "cartes": [
-      {
-       "recto": "Effectif et fréquence d'une valeur",
-       "verso": "L'effectif est le nombre de fois où elle apparaît. La fréquence est l'effectif divisé par l'effectif total"
-      },
-      {
-       "recto": "Comment passer d'une fréquence à un pourcentage ?",
-       "verso": "On multiplie par $100$"
-      },
-      {
-       "recto": "Moyenne d'une série",
-       "verso": "La somme des valeurs divisée par l'effectif total"
-      },
-      {
-       "recto": "Moyenne pondérée",
-       "verso": "$\\dfrac{n_1 x_1 + n_2 x_2 + \\dots}{n_1 + n_2 + \\dots}$ où $n_i$ est l'effectif de la valeur $x_i$"
-      },
-      {
-       "recto": "Médiane d'une série",
-       "verso": "Valeur qui partage la série ordonnée en deux groupes de même effectif"
-      },
-      {
-       "recto": "Médiane d'une série de $N$ valeurs ordonnées, $N$ impair",
-       "verso": "La valeur de rang $\\dfrac{N + 1}{2}$"
-      },
-      {
-       "recto": "Médiane d'une série de $N$ valeurs ordonnées, $N$ pair",
-       "verso": "Tout nombre compris entre les valeurs de rang $\\dfrac{N}{2}$ et $\\dfrac{N}{2} + 1$ convient (on prend en général leur moyenne)"
-      },
-      {
-       "recto": "Étendue d'une série",
-       "verso": "La plus grande valeur moins la plus petite"
-      },
-      {
-       "recto": "Moyenne de $12$, $14$, $9$ et $15$",
-       "verso": "$\\dfrac{12 + 14 + 9 + 15}{4} = 12{,}5$"
-      },
-      {
-       "recto": "Médiane de $3$, $7$, $8$, $12$, $20$",
-       "verso": "$8$"
-      },
-      {
-       "recto": "Angle d'un secteur dans un diagramme circulaire",
-       "verso": "Fréquence $\\times 360^\\circ$"
-      },
-      {
-       "recto": "Dans un histogramme à classes de même amplitude",
-       "verso": "La hauteur de chaque barre est proportionnelle à l'effectif de la classe"
-      },
-      {
-       "recto": "Quelle est la sensibilité de la moyenne et de la médiane aux valeurs extrêmes ?",
-       "verso": "La moyenne est sensible aux valeurs extrêmes, la médiane beaucoup moins"
-      }
-     ]
+      "nom": "Mathématiques - 3e",
+      "paquets": [
+        {
+          "nom": "3e · Statistiques",
+          "cartes": [
+            {
+              "recto": "Effectif et fréquence d'une valeur",
+              "verso": "L'effectif est le nombre de fois où elle apparaît. La fréquence est l'effectif divisé par l'effectif total"
+            },
+            {
+              "recto": "Comment passer d'une fréquence à un pourcentage ?",
+              "verso": "On multiplie par $100$"
+            },
+            {
+              "recto": "Moyenne d'une série",
+              "verso": "La somme des valeurs divisée par l'effectif total"
+            },
+            {
+              "recto": "Moyenne pondérée",
+              "verso": "$\\dfrac{n_1 x_1 + n_2 x_2 + \\dots}{n_1 + n_2 + \\dots}$ où $n_i$ est l'effectif de la valeur $x_i$"
+            },
+            {
+              "recto": "Médiane d'une série",
+              "verso": "Valeur qui partage la série ordonnée en deux groupes de même effectif"
+            },
+            {
+              "recto": "Médiane d'une série de $N$ valeurs ordonnées, $N$ impair",
+              "verso": "La valeur de rang $\\dfrac{N + 1}{2}$"
+            },
+            {
+              "recto": "Médiane d'une série de $N$ valeurs ordonnées, $N$ pair",
+              "verso": "Tout nombre compris entre les valeurs de rang $\\dfrac{N}{2}$ et $\\dfrac{N}{2} + 1$ convient (on prend en général leur moyenne)"
+            },
+            {
+              "recto": "Étendue d'une série",
+              "verso": "La plus grande valeur moins la plus petite"
+            },
+            {
+              "recto": "Moyenne de $12$, $14$, $9$ et $15$",
+              "verso": "$\\dfrac{12 + 14 + 9 + 15}{4} = 12{,}5$"
+            },
+            {
+              "recto": "Médiane de $3$, $7$, $8$, $12$, $20$",
+              "verso": "$8$"
+            },
+            {
+              "recto": "Angle d'un secteur dans un diagramme circulaire",
+              "verso": "Fréquence $\\times 360^\\circ$"
+            },
+            {
+              "recto": "Dans un histogramme à classes de même amplitude",
+              "verso": "La hauteur de chaque barre est proportionnelle à l'effectif de la classe"
+            },
+            {
+              "recto": "Quelle est la sensibilité de la moyenne et de la médiane aux valeurs extrêmes ?",
+              "verso": "La moyenne est sensible aux valeurs extrêmes, la médiane beaucoup moins"
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

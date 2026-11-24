@@ -1,56 +1,56 @@
 {
- "format": "flashcards-maths",
- "version": 1,
- "matieres": [
-  {
-   "nom": "Mathématiques",
-   "paquets": [
+  "format": "flashcards-maths",
+  "version": 1,
+  "matieres": [
     {
-     "nom": "3e · Notion de fonction",
-     "cartes": [
-      {
-       "recto": "Qu'est-ce qu'une fonction ?",
-       "verso": "Un procédé qui, à chaque nombre $x$, associe un unique nombre noté $f(x)$"
-      },
-      {
-       "recto": "Que signifie $f(3) = 7$ ?",
-       "verso": "L'image de $3$ par $f$ est $7$, et $3$ est un antécédent de $7$"
-      },
-      {
-       "recto": "Qu'est-ce qu'un antécédent ?",
-       "verso": "Un nombre dont l'image est le nombre considéré"
-      },
-      {
-       "recto": "Un nombre peut-il avoir plusieurs antécédents ?",
-       "verso": "Oui. Par exemple, pour $f(x) = x^2$, le nombre $9$ a deux antécédents : $3$ et $-3$. Mais un nombre a une seule image"
-      },
-      {
-       "recto": "Calculer l'image de $4$ par $f(x) = 2x + 3$",
-       "verso": "$f(4) = 2 \\times 4 + 3 = 11$"
-      },
-      {
-       "recto": "Trouver les antécédents de $8$ par $f(x) = x^2 - 1$",
-       "verso": "On résout $x^2 - 1 = 8$, soit $x^2 = 9$ : $x = 3$ ou $x = -3$"
-      },
-      {
-       "recto": "Les trois façons de représenter une fonction",
-       "verso": "Une formule, un tableau de valeurs, une courbe"
-      },
-      {
-       "recto": "Lire l'image de $a$ sur une courbe",
-       "verso": "On part de $a$ sur l'axe horizontal, on monte (ou descend) jusqu'à la courbe, puis on lit l'ordonnée"
-      },
-      {
-       "recto": "Lire les antécédents de $b$ sur une courbe",
-       "verso": "On part de $b$ sur l'axe vertical, on suit l'horizontale jusqu'à la courbe, puis on lit les abscisses"
-      },
-      {
-       "recto": "Que signifie « le point de coordonnées $(2 ; 5)$ appartient à la courbe de $f$ » ?",
-       "verso": "$f(2) = 5$"
-      }
-     ]
+      "nom": "Mathématiques - 3e",
+      "paquets": [
+        {
+          "nom": "3e · Notion de fonction",
+          "cartes": [
+            {
+              "recto": "Qu'est-ce qu'une fonction ?",
+              "verso": "Un procédé qui, à chaque nombre $x$, associe un unique nombre noté $f(x)$"
+            },
+            {
+              "recto": "Que signifie $f(3) = 7$ ?",
+              "verso": "L'image de $3$ par $f$ est $7$, et $3$ est un antécédent de $7$"
+            },
+            {
+              "recto": "Qu'est-ce qu'un antécédent ?",
+              "verso": "Un nombre dont l'image est le nombre considéré"
+            },
+            {
+              "recto": "Un nombre peut-il avoir plusieurs antécédents ?",
+              "verso": "Oui. Par exemple, pour $f(x) = x^2$, le nombre $9$ a deux antécédents : $3$ et $-3$. Mais un nombre a une seule image"
+            },
+            {
+              "recto": "Calculer l'image de $4$ par $f(x) = 2x + 3$",
+              "verso": "$f(4) = 2 \\times 4 + 3 = 11$"
+            },
+            {
+              "recto": "Trouver les antécédents de $8$ par $f(x) = x^2 - 1$",
+              "verso": "On résout $x^2 - 1 = 8$, soit $x^2 = 9$ : $x = 3$ ou $x = -3$"
+            },
+            {
+              "recto": "Les trois façons de représenter une fonction",
+              "verso": "Une formule, un tableau de valeurs, une courbe"
+            },
+            {
+              "recto": "Lire l'image de $a$ sur une courbe",
+              "verso": "On part de $a$ sur l'axe horizontal, on monte (ou descend) jusqu'à la courbe, puis on lit l'ordonnée"
+            },
+            {
+              "recto": "Lire les antécédents de $b$ sur une courbe",
+              "verso": "On part de $b$ sur l'axe vertical, on suit l'horizontale jusqu'à la courbe, puis on lit les abscisses"
+            },
+            {
+              "recto": "Que signifie « le point de coordonnées $(2 ; 5)$ appartient à la courbe de $f$ » ?",
+              "verso": "$f(2) = 5$"
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
