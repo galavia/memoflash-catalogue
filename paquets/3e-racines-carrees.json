@@ -1,0 +1,68 @@
+{
+ "format": "flashcards-maths",
+ "version": 1,
+ "matieres": [
+  {
+   "nom": "Mathématiques",
+   "paquets": [
+    {
+     "nom": "3e · Racines carrées",
+     "cartes": [
+      {
+       "recto": "Définition de $\\sqrt{a}$ (avec $a \\geq 0$)",
+       "verso": "Le nombre positif dont le carré est $a$"
+      },
+      {
+       "recto": "$(\\sqrt{a})^2$ (avec $a \\geq 0$)",
+       "verso": "$a$"
+      },
+      {
+       "recto": "$\\sqrt{a^2}$ (avec $a \\geq 0$)",
+       "verso": "$a$"
+      },
+      {
+       "recto": "$\\sqrt{a \\times b}$ (avec $a \\geq 0$ et $b \\geq 0$)",
+       "verso": "$\\sqrt{a} \\times \\sqrt{b}$"
+      },
+      {
+       "recto": "$\\sqrt{\\dfrac{a}{b}}$ (avec $a \\geq 0$ et $b > 0$)",
+       "verso": "$\\dfrac{\\sqrt{a}}{\\sqrt{b}}$"
+      },
+      {
+       "recto": "A-t-on $\\sqrt{a+b} = \\sqrt{a} + \\sqrt{b}$ ?",
+       "verso": "Non, en général. Exemple : $\\sqrt{9+16} = 5$ mais $\\sqrt{9} + \\sqrt{16} = 7$"
+      },
+      {
+       "recto": "Simplifier $\\sqrt{50}$",
+       "verso": "$\\sqrt{25 \\times 2} = 5\\sqrt{2}$"
+      },
+      {
+       "recto": "Simplifier $\\sqrt{12}$",
+       "verso": "$\\sqrt{4 \\times 3} = 2\\sqrt{3}$"
+      },
+      {
+       "recto": "$\\sqrt{-4}$ existe-t-il ?",
+       "verso": "Non : un carré n'est jamais négatif, on ne peut pas prendre la racine carrée d'un nombre négatif"
+      },
+      {
+       "recto": "Les carrés parfaits de $1^2$ à $15^2$",
+       "verso": "$1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225$"
+      },
+      {
+       "recto": "Résoudre $x^2 = a$ avec $a > 0$",
+       "verso": "Deux solutions : $\\sqrt{a}$ et $-\\sqrt{a}$"
+      },
+      {
+       "recto": "Calculer $3\\sqrt{2} + 5\\sqrt{2}$",
+       "verso": "$8\\sqrt{2}$"
+      },
+      {
+       "recto": "Calculer $\\sqrt{2} \\times \\sqrt{8}$",
+       "verso": "$\\sqrt{16} = 4$"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
