@@ -1,5 +1,1 @@
-{
- "version": 1,
- "paquets": [],
- "maj": "2026-11-28"
-}
+{"version":1,"paquets":[{"id":"3e-racines-carrees","matiere":"Maths - 3e","niveau":"3e","nom":"Racines carrées","nbCartes":13,"version":1,"fichier":"paquets/3e-racines-carrees.json"}],"maj":"2026-11-28"}
